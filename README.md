@@ -42,7 +42,8 @@ See Attendees above.
 
 ## 2. What is new in Foothill's Curriculum
 See description in section Certificate. 
-    - Certificate of Achievement in Web Application Development
+
+- Certificate of Achievement in Web Application Development
 
 ## 3. Question on Skills
 * What emerging skills are needed in your industry? *
@@ -66,7 +67,7 @@ See description in section Certificate.
    - Do students need to know the relative complexity of different algorithms?
  
 
-# New Certificates
+# New Certificate
 ## Certificate of Achievement in Web Development
 The goal of the Certificate of Achievement in Web Applications Development is to prepare individuals to create 
 web applications that meet the needs of clients and end users (such as individuals, institutions, businesses, 
