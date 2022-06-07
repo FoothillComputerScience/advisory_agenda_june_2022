@@ -37,14 +37,14 @@
  
 
 # Agenda
-## 1. Introductions##
+## 1. Introductions
 See Attendees above.
 
 ## 2. What's new in Foothill's Curriculum
     See description in section Certificate. <br>
     Certificate of Achievement in Web Application Development
 
-## 3. Question on Skills**
+## 3. Question on Skills
 *What emerging skills are needed in your industry?*
 - Follow up: Is knowledge of Networking, Cyber Security, Computer Configuration, Cloud Computing Necessary?
   - Do you have any IT Jobs available to Students with High School Diplomas or AA Degrees.
@@ -58,12 +58,12 @@ See Attendees above.
 ##5. Questions on Format of Interviews
 - If a student is going to an interview what are they expected to demonstrate? What kind of topics are you looking for proficiency in?
 - For example during interviews are students expected to...
--- ...solve puzzles?
--- ...to write on a whiteboard?
--- ...to code on a computer?
--- ...know about data structures and algorithms?
---- Are there any favorite algorithms that you like to ask about?
---- Do students need to know the relative complexity of different algorithms?
+ - ...solve puzzles?
+ - ...to write on a whiteboard?
+ - ...to code on a computer?
+ - ...know about data structures and algorithms?
+  - Are there any favorite algorithms that you like to ask about?
+  - Do students need to know the relative complexity of different algorithms?
  
 
 # New Certificates
