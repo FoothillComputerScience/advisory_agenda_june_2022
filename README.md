@@ -37,25 +37,25 @@
  
 
 # Agenda
-##1. Introductions##
+## 1. Introductions##
 See Attendees above.
 
-##2. What's new in Foothill's Curriculum
+## 2. What's new in Foothill's Curriculum
     See description in section Certificate. <br>
     Certificate of Achievement in Web Application Development
 
-##3. Question on Skills**
+## 3. Question on Skills**
 *What emerging skills are needed in your industry?*
 - Follow up: Is knowledge of Networking, Cyber Security, Computer Configuration, Cloud Computing Necessary?
-  -- Do you have any IT Jobs available to Students with High School Diplomas or AA Degrees.
+  - Do you have any IT Jobs available to Students with High School Diplomas or AA Degrees.
 - Would you or someone in your area be interested in help lead us in creating a workshop for our students?
 - Would you be interested participating in mock interviews?
 
-##4. How important is a portfolio such as on GitHub or Kaggle to demonstrate their work?
+## 4. How important is a portfolio such as on GitHub or Kaggle to demonstrate their work?
 - How can our students make sure their resumes stand out?
 - Would you be interested in helping students with resume workshop?
 
-##4. Questions on Format of Interviews
+##5. Questions on Format of Interviews
 - If a student is going to an interview what are they expected to demonstrate? What kind of topics are you looking for proficiency in?
 - For example during interviews are students expected to...
 -- ...solve puzzles?
