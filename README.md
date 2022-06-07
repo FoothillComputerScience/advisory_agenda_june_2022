@@ -67,8 +67,7 @@ See Attendees above.
  
 
 # New Certificates
-## Language focused certificates
-### Certificate of Achievement in Web Development
+## Certificate of Achievement in Web Development
 The goal of the Certificate of Achievement in Web Applications Development is to prepare individuals to create 
 web applications that meet the needs of clients and end users (such as individuals, institutions, businesses, 
 and community organizations). Students successful in this program will be able to design, develop, and deploy 
