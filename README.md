@@ -3,7 +3,7 @@
 ### 10 June 2022
 
 ## Goal of Meeting
-* Obtain advice for new [CS certificate](https://foothill.edu/cs/programs.html?title_id=Computer%20Science&t=1).  
+* Obtain feedback and approval for new [CS certificate](https://foothill.edu/cs/programs.html?title_id=Computer%20Science&t=1).  
 * Obtain advice for emerging skills in computer science.
 * Obtain advice for better preparing our students for interviewing in (computer science related) industry.
 
